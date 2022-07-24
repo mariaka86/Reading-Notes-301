@@ -8,7 +8,7 @@
 
 ## - Code 401 - Advanced Software Development
 
-
+*About Reading 301 Notes* These notes will go along the reading from coding 301 (Intermediate Software Development).
 
 
 [Class -01 Reading Assignment](class-01.md)
