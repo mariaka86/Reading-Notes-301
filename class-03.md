@@ -47,6 +47,7 @@ objectFour.laugh() // 😂😂😂😂😂
 
 Videos
 In the video, what is the first step that the developer does to pass functions between components?
+use the array map method.
 
 In your own words, what does the increment function do?
  
