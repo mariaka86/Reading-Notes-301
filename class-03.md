@@ -59,3 +59,11 @@ by utilizing state
 How does the child component invoke a method that was passed to it from a parent component?
 
 by setting the state.
+
+
+
+
+
+
+
+Reference: https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
