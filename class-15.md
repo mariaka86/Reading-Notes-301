@@ -43,3 +43,5 @@ What is Device Authorization Flow?
 an extra step in authorization where a user uses a device to authorize instead of authenticating directly
 
 What is Resource Owner Password Flow?
+
+Password storing
